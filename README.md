@@ -22,10 +22,11 @@ Kaggle 심장질환 데이터 918건의 탐색적 분석과 7개 분류 모델 �
 본 연구는 기록된 심장질환 유무를 분류하는 교육용 분석이다. 미래 발병 위험, 심부전 사망 또는 일반 인구의 유병률을 추정하지 않는다. 15개 분석 그림과 모든 결과 표는 함께 제공하는 노트북을 실제 실행하여 생성했다.
 
 
-데이터: fedesoriano의 Heart Failure Prediction Dataset
+데이터: fedesoriano의 Heart Failure Prediction Dataset  
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 
-
+YouTube link: 
+https://youtu.be/pg1ffK9s6bQ
 
 
 
